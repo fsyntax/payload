@@ -3,7 +3,7 @@ import type { NestedKeysStripped } from '@payloadcms/translations'
 export const translations = {
   de: {
     $schema: './translation-schema.json',
-    pluginSeo: {
+    'plugin-seo': {
       almostThere: 'Fast da',
       autoGenerate: 'Automatisch generieren',
       bestPractices: 'Best Practices',
